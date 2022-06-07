@@ -32,7 +32,7 @@ function App() {
                 <div className="header-title-subtitle">
                     <h1 className="header-title">Logan's Chat Room⚡</h1>
                     <p className="header-message">
-                        Check out more projects at{" "}
+                        See more at{" "}
                         <a
                             href="https://logan-murray.dev"
                             target="_blank"
